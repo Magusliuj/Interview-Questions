@@ -79,8 +79,11 @@ Your algorithm should run in O(n) complexity.
   dict = ["leet", "code"].
 
   Return true because "leetcode" can be segmented as "leet code".
+  <https://leetcode.com/problems/word-break-ii/>
 - Given an array of Ints find a maximum sum of non adjacent elements.
-for ex. arr = [1,0,3,9,2] then ans would be 10 = 1 + 9 (non adjacent element)  .  
+for ex. arr = [1,0,3,9,2] then ans would be 10 = 1 + 9 (non adjacent element)  .
+
+<https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/>
 - Given an input string of numbers like 121, find all permutations of that number in the same order for the corresponding letters for each number so 121 => 1 2 1, 12 1, and 1 21 which is ABA, LA, and AT .
 - For a given string and dictionary, how many sentences can you make from the string, such that all the words are contained in the dictionary.
 - Given string a and b, with b containing all distinct characters, find the longest common subsequence's length.
